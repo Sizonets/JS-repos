@@ -1,0 +1,58 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "T-shirt1",
+    "price": 1600,
+    "imgSrc": "img/T-shirt1.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 2,
+    "product_name": "T-shirt2",
+    "price": 20,
+    "imgSrc": "img/T-shirt2.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 3,
+    "product_name": "T-shirt3",
+    "price": 700,
+    "imgSrc": "img/T-shirt3.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 4,
+    "product_name": "T-shirt4",
+    "price": 1000,
+    "imgSrc": "img/T-shirt4.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 5,
+    "product_name": "T-shirt5",
+    "price": 500,
+    "imgSrc": "img/T-shirt5.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 6,
+    "product_name": "T-shirt6",
+    "price": 222,
+    "imgSrc": "img/T-shirt6.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 7,
+    "product_name": "T-shirt7",
+    "price": 250,
+    "imgSrc": "img/T-shirt7.jpg",
+    "stringSrc": "womanproduct.html"
+  },
+  {
+    "id_product": 8,
+    "product_name": "T-shirt8",
+    "price": 300,
+    "imgSrc": "img/T-shirt8.jpg",
+    "stringSrc": "womanproduct.html"
+  }
+]

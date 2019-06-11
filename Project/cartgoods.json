@@ -1,0 +1,16 @@
+[
+{
+	"id_product": 9,
+    "product_name": "T-shirt9",
+    "price": 300,
+    "imgSrc": "img/reboxsizman.jpg",
+    "quantity": 3
+},
+{
+	"id_product": 10,
+    "product_name": "T-shirt10",
+    "price": 200,
+    "imgSrc": "img/redoxsizwoman.jpg",
+    "quantity": 2
+}
+]
